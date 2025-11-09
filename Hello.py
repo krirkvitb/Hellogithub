@@ -1,3 +1,6 @@
-print('Hellow World')
-print('Myname is Krik')
+#This is a Hello World File
+def HelloWorld():
+    print('Hello World')
+    print('Myname is Krik')
 
+HelloWorld()
